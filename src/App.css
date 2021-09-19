@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.container{
+  background-color: antiquewhite;
+  color: rebeccapurple;
+  padding: 20px;
+border-radius: 20px;
+}
+
+.person{
+  background-color: bisque;
+  border: 3px solid coral;
+  margin: 10px;
+  border-radius: 10px;
+}
+
